@@ -23,6 +23,7 @@ button {
     font-size: 1.1rem;
     font-weight:bold;
     border: none;
+    margin-top: 0.5rem;
 }
 .delete-btn {
     color: #5f9341;
